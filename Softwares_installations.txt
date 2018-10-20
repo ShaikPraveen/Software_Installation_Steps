@@ -1,0 +1,77 @@
+
+Installtion Process:-
+--------------------
+
+1. Java
+2. Maven
+3. Jenkins
+3. Git
+4. Ant
+5. Sauce Labs
+
+
+
+ JAVA INSTALLATION:-
+ ------------------
+ 
+          1. Downlaod JDK 1.8 From Google
+
+                   https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+          2. Install JDK 
+
+          3. After install JDK, in C - Drive Program Files, The JAVA folder is Created
+    
+          4. Set The Environmental Path
+
+                 
+
+                   JAVA_HOME C:\Program Files\Java\jdk1.8.0_181
+                  
+                   Path      %JAVA_HOME%\bin
+      
+          5. After Set path Check java is Install or not using CMD prompt
+                   
+                        java -version
+
+          6. It will shows us Entire Detals of the Java with Current version
+
+       ==============================================================================
+
+
+    MAVEN INSTALLATION :-
+   -------------------
+
+              1. Download Maven From Google
+ 
+                              https://maven.apache.org/download.cgi
+              
+              2. After download maven it will shows us ZIP File, Unzip and set the Maven Path
+
+                  MAVEN_HOME  E:\Praveen_Automation\Maven\apache-maven-3.5.4-bin\apache-maven-3.5.4
+
+                              E:\Praveen_Automation\Maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin
+
+              3. Check in CMD Prompt using    =>mvn -version
+
+    =============================================================================================================
+
+    GIT INSTALLATION :-
+    ----------------
+
+          1. Download Git from Google
+    
+                     https://git-scm.com/downloads
+
+          2. After download Git  install Git, which becomes Gitbash
+
+                   
+  ===============================================================================================================
+
+
+
+https://www.youtube.com/watch?v=HDJt2sXT0vg(OBS_SSTUDIO)
+
+
+============================================================================================
+
